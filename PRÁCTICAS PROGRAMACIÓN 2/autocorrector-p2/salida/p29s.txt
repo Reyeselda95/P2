@@ -1,0 +1,138 @@
+--------------------------------
+----------- MiniTunes  ---------
+--------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: Search: 1 | Money for Nothing | Dire Straits | Private Investigations - The Best of Dire Straits & Mark Kn | Rock
+2 | Sultans of Swing | Dire Straits | Dire Straits | Pop
+3 | Walk of Life | Dire Straits | Private Investigations - The Best of Dire Straits & Mark Kn | Rock
+4 | So Far Away | Dire Straits | Private Investigations - The Best of Dire Straits & Mark Kn | Rock
+5 | Romeo and Juliet | Dire Straits | Private Investigations - The Best of Dire Straits & Mark Kn | Rock
+6 | Brothers In Arms | Dire Straits | Private Investigations - The Best of Dire Straits & Mark Kn | Rock
+7 | Skateaway | Dire Straits | Private Investigations - The Best of Dire Straits & Mark Kn | Rock
+8 | Down to the Waterline | Dire Straits | Dire Straits | Pop
+9 | Industrial Disease | Dire Straits | Love Over Gold | Rock
+10 | Tunnel of Love | Dire Straits | Private Investigations - The Best of Dire Straits & Mark Kn | Rock
+11 | Why Worry | Dire Straits | Brothers In Arms | Rock
+12 | Your Latest Trick | Dire Straits | Private Investigations - The Best of Dire Straits & Mark Kn | Rock
+13 | Ride Across the River | Dire Straits | Brothers In Arms | Rock
+14 | Water of Love | Dire Straits | Dire Straits | Pop
+15 | Private Investigations | Dire Straits | Private Investigations - The Best of Dire Straits & Mark Kn | Rock
+16 | On Every Street | Dire Straits | Private Investigations - The Best of Dire Straits & Mark Kn | Rock
+17 | Calling Elvis | Dire Straits | Private Investigations - The Best of Dire Straits & Mark Kn | Rock
+18 | Love Over Gold | Dire Straits | Private Investigations - The Best of Dire Straits & Mark Kn | Rock
+19 | The Man's Too Strong | Dire Straits | Brothers In Arms | Rock
+20 | One World | Dire Straits | Brothers In Arms | Rock
+21 | Solid Rock | Dire Straits | Making Movies | Rock
+22 | Telegraph Road | Dire Straits | Private Investigations - The Best of Dire Straits & Mark Kn | Rock
+23 | Twisting By the Pool | Dire Straits | Sultans of Swing - The Very Best of Dire Straits | Rock
+24 | Lady Writer | Dire Straits | Sultans of Swing - The Very Best of Dire Straits | Rock
+25 | Expresso Love | Dire Straits | Making Movies | Rock
+26 | Six Blade Knife | Dire Straits | Dire Straits | Pop
+27 | Wild West End | Dire Straits | Dire Straits | Pop
+28 | Southbound Again | Dire Straits | Dire Straits | Pop
+29 | Heavy Fuel | Dire Straits | Sultans of Swing - The Very Best of Dire Straits | Rock
+30 | In the Gallery | Dire Straits | Dire Straits | Pop
+31 | Setting Me Up | Dire Straits | Dire Straits | Pop
+32 | Your Latest Trick (Live) | Dire Straits | Sultans of Swing - The Very Best of Dire Straits | Rock
+33 | Calling Elvis (Edit) | Dire Straits | Sultans of Swing - The Very Best of Dire Straits | Rock
+34 | Once Upon a Time In the West | Dire Straits | Communique | Pop
+35 | Here Comes the Sun | The Beatles | Abbey Road | Rock
+36 | Let It Be | The Beatles | Let It Be | Rock
+37 | In My Life | The Beatles | Rubber Soul | Rock
+38 | Hey Jude | The Beatles | The Beatles 1967-1970 (The Blue Album) | Rock
+39 | Come Together | The Beatles | Abbey Road | Rock
+40 | Blackbird | The Beatles | The Beatles (White Album) | Rock
+41 | Twist and Shout | The Beatles | Please Please Me | Rock
+42 | I Want to Hold Your Hand | The Beatles | 1 | Rock
+43 | All You Need Is Love | The Beatles | 1 | Rock
+44 | Yesterday | The Beatles | 1 | Rock
+45 | Ob-La-Di, Ob-La-Da | The Beatles | The Beatles (White Album) | Rock
+46 | Revolution | The Beatles | The Beatles 1967-1970 (The Blue Album) | Rock
+47 | Eleanor Rigby | The Beatles | 1 | Rock
+48 | Love Me Do | The Beatles | 1 | Rock
+49 | While My Guitar Gently Weeps | The Beatles | The Beatles (White Album) | Rock
+50 | Can't Buy Me Love | The Beatles | 1 | Rock
+51 | With a Little Help From My Fr | The Beatles | Sgt. Pepper's Lonely Hearts Club Band | Rock
+52 | Yellow Submarine | The Beatles | 1 | Rock
+53 | Help! | The Beatles | 1 | Rock
+54 | Hello, Goodbye | The Beatles | 1 | Rock
+55 | Eight Days a Week | The Beatles | 1 | Rock
+56 | The Long and Winding Road | The Beatles | 1 | Rock
+57 | Beatles | G.I | Beatles - Single | 
+58 | Something | The Beatles | 1 | Rock
+59 | She Loves You | The Beatles | 1 | Rock
+60 | The Hippy Hippy Shake | The Beatles | The Beatles Bootleg Recordings 1963 | Rock
+61 | Day Tripper | The Beatles | 1 | Rock
+62 | Penny Lane | The Beatles | 1 | Rock
+63 | A Hard Day's Night | The Beatles | 1 | Rock
+64 | We Can Work It Out | The Beatles | 1 | Rock
+65 | Chains | The Beatles | The Beatles Bootleg Recordings 1963 | Rock
+66 | A Taste of Honey | The Beatles | The Beatles Bootleg Recordings 1963 | Rock
+67 | Boys | The Beatles | The Beatles Bootleg Recordings 1963 | Rock
+68 | I Saw Her Standing There | The Beatles | The Beatles Bootleg Recordings 1963 | Rock
+69 | I'll Get You | The Beatles | The Beatles Bootleg Recordings 1963 | Rock
+70 | Till There Was You | The Beatles | The Beatles Bootleg Recordings 1963 | Rock
+71 | I Feel Fine | The Beatles | 1 | Rock
+72 | You Really Got a Hold On Me | The Beatles | The Beatles Bootleg Recordings 1963 | Rock
+73 | Anna | The Beatles | The Beatles Bootleg Recordings 1963 | Rock
+74 | A Shot of Rhythm and Blues | The Beatles | The Beatles Bootleg Recordings 1963 | Rock
+75 | Walk | Foo Fighters | Wasting Light (Deluxe Version) | Rock
+76 | Everlong | Foo Fighters | Foo Fighters: Greatest Hits | Rock
+77 | The Pretender | Foo Fighters | Echoes, Silence, Patience & Grace | Alternative
+78 | Learn to Fly | Foo Fighters | Foo Fighters: Greatest Hits | Rock
+79 | My Hero | Foo Fighters | Foo Fighters: Greatest Hits | Rock
+80 | Best of You | Foo Fighters | Foo Fighters: Greatest Hits | Rock
+81 | Times Like These | Foo Fighters | Foo Fighters: Greatest Hits | Rock
+82 | These Days | Foo Fighters | Wasting Light (Deluxe Version) | Rock
+83 | Let It Die | Foo Fighters | Echoes, Silence, Patience & Grace | Alternative
+84 | All My Life | Foo Fighters | Foo Fighters: Greatest Hits | Rock
+85 | Rope | Foo Fighters | Wasting Light (Deluxe Version) | Rock
+86 | Monkey Wrench | Foo Fighters | Foo Fighters: Greatest Hits | Rock
+87 | Big Me | Foo Fighters | Foo Fighters: Greatest Hits | Rock
+88 | Long Road to Ruin | Foo Fighters | Echoes, Silence, Patience & Grace | Alternative
+89 | Wheels | Foo Fighters | Foo Fighters: Greatest Hits | Rock
+90 | Bridge Burning | Foo Fighters | Wasting Light (Deluxe Version) | Rock
+91 | This Is a Call | Foo Fighters | Foo Fighters: Greatest Hits | Rock
+92 | Cheer Up, Boys (Your Make Up  | Foo Fighters | Echoes, Silence, Patience & Grace | Alternative
+93 | Skin and Bones | Foo Fighters | Foo Fighters: Greatest Hits | Rock
+94 | Stranger Things Have Happened | Foo Fighters | Echoes, Silence, Patience & Grace | Alternative
+95 | Word Forward | Foo Fighters | Foo Fighters: Greatest Hits | Rock
+96 | Home | Foo Fighters | Echoes, Silence, Patience & Grace | Alternative
+97 | Arlandria | Foo Fighters | Wasting Light (Deluxe Version) | Rock
+98 | Breakout | Foo Fighters | Foo Fighters: Greatest Hits | Rock
+99 | Erase / Replace | Foo Fighters | Echoes, Silence, Patience & Grace | Alternative
+100 | Ballad of the Beaconsfield Mi | Foo Fighters | Echoes, Silence, Patience & Grace | Alternative
+101 | Summer's End | Foo Fighters | Echoes, Silence, Patience & Grace | Alternative
+102 | But, Honestly | Foo Fighters | Echoes, Silence, Patience & Grace | Alternative
+103 | Once & for All (Demo) | Foo Fighters | Echoes, Silence, Patience & Grace | Alternative
+104 | A Matter of Time | Foo Fighters | Wasting Light (Deluxe Version) | Rock
+105 | White Limo | Foo Fighters | Wasting Light | Rock
+106 | Dear Rosemary | Foo Fighters | Wasting Light | Rock
+107 | I Should Have Known | Foo Fighters | Wasting Light | Rock
+108 | Back & Forth | Foo Fighters | Wasting Light | Rock
+109 | Statues | Foo Fighters | Echoes, Silence, Patience & Grace | Alternative
+--------------------------------
+----------- MiniTunes  ---------
+--------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: 

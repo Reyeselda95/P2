@@ -1,0 +1,63 @@
+1
+aa
+bb
+cc
+dd
+ee
+1
+aa
+bb
+cc
+dd
+ee
+1
+AA
+BB
+cc
+dd
+ee
+4
+c
+3
+c
+1
+Y
+3
+c
+2
+Y
+1
+aaaaa
+bbbb
+ccc
+dd
+e
+1
+a
+bb
+ccc
+dddd
+eeeee
+4
+
+1
+a a a a a a b
+b a a b a a c
+c a a a b c e
+dd
+ee
+1
+aaa a bbb
+a baibi a baebe
+cc
+dd
+ee
+4
+a a b
+4
+a
+4
+ a b
+4
+ a c
+q

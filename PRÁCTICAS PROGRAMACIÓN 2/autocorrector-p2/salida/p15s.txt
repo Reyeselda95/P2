@@ -1,0 +1,169 @@
+---------------------------------------------
+--------------- MiniTunes -------------------
+---------------------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: Title: Artist: Album: Genre: Url: ---------------------------------------------
+--------------- MiniTunes -------------------
+---------------------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: Search: 1 | La cancion del Alamo | Familia Teleron | No me mires que no te veo | Blues
+Select song: Edit (1-Title, 2-Artist, 3-Album, 4-Genre, 5-Url): Artist: ---------------------------------------------
+--------------- MiniTunes -------------------
+---------------------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: Search: 1 | La cancion del Alamo | Familia Telerin | No me mires que no te veo | Blues
+---------------------------------------------
+--------------- MiniTunes -------------------
+---------------------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: Title: Artist: Album: Genre: Url: ---------------------------------------------
+--------------- MiniTunes -------------------
+---------------------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: Search: 1 | La cancion del Alamo | Familia Telerin | No me mires que no te veo | Blues
+2 | La cancion del Alamo | Familia Teleron | No me mires que no te veo | Blues
+Select song: Edit (1-Title, 2-Artist, 3-Album, 4-Genre, 5-Url): Artist: ---------------------------------------------
+--------------- MiniTunes -------------------
+---------------------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: Search: No results
+---------------------------------------------
+--------------- MiniTunes -------------------
+---------------------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: Search: 1 | La cancion del Alamo | Familia Telerin | No me mires que no te veo | Blues
+2 | La cancion del Alamo | Familia Telerin | No me mires que no te veo | Blues
+---------------------------------------------
+--------------- MiniTunes -------------------
+---------------------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: Search: 1 | La cancion del Alamo | Familia Telerin | No me mires que no te veo | Blues
+2 | La cancion del Alamo | Familia Telerin | No me mires que no te veo | Blues
+Select song: Delete 2 | La cancion del Alamo | Familia Telerin | No me mires que no te veo | Blues? (Y/N): Song not deleted
+---------------------------------------------
+--------------- MiniTunes -------------------
+---------------------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: Search: 1 | La cancion del Alamo | Familia Telerin | No me mires que no te veo | Blues
+2 | La cancion del Alamo | Familia Telerin | No me mires que no te veo | Blues
+Select song: Delete 2 | La cancion del Alamo | Familia Telerin | No me mires que no te veo | Blues? (Y/N): ---------------------------------------------
+--------------- MiniTunes -------------------
+---------------------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: Search: 1 | La cancion del Alamo | Familia Telerin | No me mires que no te veo | Blues
+Select song: Error: Unknown song 2
+---------------------------------------------
+--------------- MiniTunes -------------------
+---------------------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: 

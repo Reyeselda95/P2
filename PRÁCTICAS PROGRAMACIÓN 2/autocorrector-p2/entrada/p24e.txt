@@ -1,0 +1,14 @@
+9
+7
+6
+entrada/beatles.txt
+5
+1
+
+31 29
+q
+7
+
+7
+obtenido/p24so.xspf
+q

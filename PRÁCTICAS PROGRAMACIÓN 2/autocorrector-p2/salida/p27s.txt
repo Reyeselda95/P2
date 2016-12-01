@@ -1,0 +1,81 @@
+--------------------------------
+----------- MiniTunes  ---------
+--------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: Empty playlist
+--------------------------------
+----------- MiniTunes  ---------
+--------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: --------------------------------
+----------- MiniTunes  ---------
+--------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: >35: Here Comes the Sun (The Beatles)
+ 1: Money for Nothing (Dire Straits)
+ 76: Everlong (Foo Fighters)
+ 47: Eleanor Rigby (The Beatles)
+Reproduciendo http://a926.phobos.apple.com/us/r1000/064/Music2/v4/bd/a3/de/bda3dec6-3155-d754-16a9-5af221eae0e8/mzaf_5402157039099588579.m4a
+Command: Options: 
+p: Pause/resume
+s: Next song
+a: Previous song
+q: Quit
+Command:  35: Here Comes the Sun (The Beatles)
+>1: Money for Nothing (Dire Straits)
+ 76: Everlong (Foo Fighters)
+ 47: Eleanor Rigby (The Beatles)
+Reproduciendo http://a433.phobos.apple.com/us/r1000/073/Music/b6/a6/7f/mzm.qekjvoky.aac.p.m4a
+Command: >35: Here Comes the Sun (The Beatles)
+ 1: Money for Nothing (Dire Straits)
+ 76: Everlong (Foo Fighters)
+ 47: Eleanor Rigby (The Beatles)
+Reproduciendo http://a926.phobos.apple.com/us/r1000/064/Music2/v4/bd/a3/de/bda3dec6-3155-d754-16a9-5af221eae0e8/mzaf_5402157039099588579.m4a
+Command: Se ha pausado la reproduccion
+Command: Se ha reanudado la reproduccion
+Command: Se ha detenido el reproductor
+--------------------------------
+----------- MiniTunes  ---------
+--------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: 

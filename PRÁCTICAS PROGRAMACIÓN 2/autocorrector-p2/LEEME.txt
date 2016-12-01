@@ -1,0 +1,51 @@
+Para pasar el autocorrector, hay que copiar el fichero de la práctica
+(minitunes.cc) en el mismo directorio y ejecutar desde el terminal:
+
+./autocorrectorP2p2.sh
+
+El proceso de corrección sigue los siguientes pasos:
+
+1- Se generan y compilan unos programas auxiliares (mata y comparefiles)
+2- Se compila la práctica
+3- Se ejecutan las pruebas del directorio "entrada" y se almacenan los
+resultados en el directorio "obtenido". Se compara la salida obtenida con
+la salida correcta que se encuentra en el directorio "salida".
+
+El autocorrector usa dos programas auxiliares: "mata", para parar la
+práctica en caso de que se cuelgue, y "comparefiles" para comparar dos
+ficheros de texto sin tener en cuenta espacios, guiones ni saltos de linea.
+Estos programas son generados y compilados por el propio autocorrector.
+
+-----------------------------------------------------------
+
+Si alguna prueba da un error cuando se comprueba la salida, se mostrará un
+mensaje parecido al del siguiente ejemplo:
+
+Prueba 1...
+35c35
+< Error: orden incorrecta.
+---
+> Error: orden incorrecta
+
+Esto significa que el programa ha obtenido un resultado distinto del
+esperado. En este ejemplo, el error se ha producido en la línea 35. La
+primera línea (<) se corresponde con la salida de la práctica, y la
+segunda (>) con la salida correcta que debería haber producido. Para mostrar
+una información más precisa, el número de guiones de las salidas puede
+aparecer alterado, pero en cualquier caso no es la causa del error (los
+guiones se ignoran en la comprobación de las salidas).
+
+-----------------------------------------------------------
+
+Sobre la entrega parcial: Las prácticas que se hayan entregado el día 28/03
+a las 23:59 serán corregidas, y si funcionan correctamente al menos 26
+pruebas del autocorrector, se sumará un punto a la nota de la práctica.
+
+-----------------------------------------------------------
+
+NOTA IMPORTANTE: Para ejecutar el autocorrector es necesario tener un
+sistema operativo Linux con valgrind instalado.  En caso de no tener el
+programa valgrind, puedes instalarlo mediante la siguiente instrucción:
+
+sudo apt-get install valgrind
+

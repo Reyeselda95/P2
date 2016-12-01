@@ -1,0 +1,100 @@
+--------------------------------
+----------- MiniTunes  ---------
+--------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: Title: Artist: Album: Genre: Url: --------------------------------
+----------- MiniTunes  ---------
+--------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: Title: Artist: Album: Genre: Url: --------------------------------
+----------- MiniTunes  ---------
+--------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: 1- Add songs
+2- Remove songs
+3- Clear
+q- Back to main menu
+Option: Search: No results
+Select songs (list separated by spaces): 1- Add songs
+2- Remove songs
+3- Clear
+q- Back to main menu
+Option: --------------------------------
+----------- MiniTunes  ---------
+--------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: 1- Add songs
+2- Remove songs
+3- Clear
+q- Back to main menu
+Option:  1: Sultans of Swing (Dire Straits)
+ 2: So Far Away (Dire Straits)
+Select songs (list separated by spaces): 1- Add songs
+2- Remove songs
+3- Clear
+q- Back to main menu
+Option:  2: So Far Away (Dire Straits)
+Select songs (list separated by spaces): 1- Add songs
+2- Remove songs
+3- Clear
+q- Back to main menu
+Option: Empty playlist
+1- Add songs
+2- Remove songs
+3- Clear
+q- Back to main menu
+Option: --------------------------------
+----------- MiniTunes  ---------
+--------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: 

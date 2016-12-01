@@ -1,0 +1,21 @@
+1
+Cancion
+Artista
+Album
+Rock
+la url
+1
+Song
+Artist
+Album
+Folk
+the url
+1
+laulu
+artisti
+albumi
+tyylilaji
+url
+4
+k
+q

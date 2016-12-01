@@ -1,0 +1,7 @@
+﻿la funcion loadData tiene que abrir fichero y llamar a las funcioes readPlaylist y readCollection si se ha abierto el fichero y luego lo cierra.
+
+"trackName":"	13
+"collectionName":"	18
+"artistName":" // y leer lo que está a continuacion hasta el caracter /"/	14
+"primaryGenreName":"	20
+"previewUrl":"	14

@@ -1,0 +1,22 @@
+﻿$ls		muestra lista de archivos
+$ls -a		lo mismo pero tambien muestra archivos ocultos
+$ls -la		muestra detalles de los archivos, la a se puede omitir y es lo que lo extiende a archivos ocultos
+$ls -la -h	entendible por humanos, muestra el tamaño en ve de 11220352 KB en 10 MB, por ejemplo
+
+
+el main posee parametros de entrada
+
+int main (int argc, char *argv[]){
+	...	
+	return  0;
+}
+
+$primos -L -N 7		el -L dice que en vez de mostrarlos todos en una línea,me los muestra en líneas diferentes y -N indica que se pasa un entero
+
+argces el número de argumentos que va a leer el programa.
+argv es un vector que tiene tantos componentes como parametros me hayan pasado.
+0 --> |p|r|i|m|o|s|\0|
+1 --> |-L|\0|
+2 --> |-N|\0|
+3 --> |7|\0|
+

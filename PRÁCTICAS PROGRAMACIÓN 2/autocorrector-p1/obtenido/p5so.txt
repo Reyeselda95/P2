@@ -1,0 +1,73 @@
+----------------------------------------
+------------- Mini Tunes ---------------
+----------------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: Title: Artist: Album: Genre: Url: ----------------------------------------
+------------- Mini Tunes ---------------
+----------------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: Title: Artist: Album: Genre: Url: ----------------------------------------
+------------- Mini Tunes ---------------
+----------------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: Title: Artist: Album: Genre: Url: ----------------------------------------
+------------- Mini Tunes ---------------
+----------------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: Search: 1 | Cancion | Artista | Album | Rock
+2 | Song | Artist | Album | Folk
+----------------------------------------
+------------- Mini Tunes ---------------
+----------------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: 

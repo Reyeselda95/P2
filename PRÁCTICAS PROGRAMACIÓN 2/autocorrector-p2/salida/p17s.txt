@@ -1,0 +1,242 @@
+---------------------------------------------
+--------------- MiniTunes -------------------
+---------------------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: Title: Artist: Album: Genre: Url: ---------------------------------------------
+--------------- MiniTunes -------------------
+---------------------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: Title: Artist: Album: Genre: Url: The song aa is already in the collection
+---------------------------------------------
+--------------- MiniTunes -------------------
+---------------------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: Title: Artist: Album: Genre: Url: ---------------------------------------------
+--------------- MiniTunes -------------------
+---------------------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: Search: 1 | aa | bb | cc | dd
+2 | AA | BB | cc | dd
+---------------------------------------------
+--------------- MiniTunes -------------------
+---------------------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: Search: 1 | aa | bb | cc | dd
+2 | AA | BB | cc | dd
+Select song: Delete 1 | aa | bb | cc | dd? (Y/N): ---------------------------------------------
+--------------- MiniTunes -------------------
+---------------------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: Search: 2 | AA | BB | cc | dd
+Select song: Delete 2 | AA | BB | cc | dd? (Y/N): ---------------------------------------------
+--------------- MiniTunes -------------------
+---------------------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: Title: Artist: Album: Genre: Url: ---------------------------------------------
+--------------- MiniTunes -------------------
+---------------------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: Title: Artist: Album: Genre: Url: ---------------------------------------------
+--------------- MiniTunes -------------------
+---------------------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: Search: 3 | aaaaa | bbbb | ccc | dd
+4 | a | bb | ccc | dddd
+---------------------------------------------
+--------------- MiniTunes -------------------
+---------------------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: Title: Artist: Album: Genre: Url: ---------------------------------------------
+--------------- MiniTunes -------------------
+---------------------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: Title: Artist: Album: Genre: Url: ---------------------------------------------
+--------------- MiniTunes -------------------
+---------------------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: Search: 5 | a a a a a a b | b a a b a a c | c a a a b c e | dd
+6 | aaa a bbb | a baibi a baebe | cc | dd
+---------------------------------------------
+--------------- MiniTunes -------------------
+---------------------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: Search: 3 | aaaaa | bbbb | ccc | dd
+4 | a | bb | ccc | dddd
+5 | a a a a a a b | b a a b a a c | c a a a b c e | dd
+6 | aaa a bbb | a baibi a baebe | cc | dd
+---------------------------------------------
+--------------- MiniTunes -------------------
+---------------------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: Search: 5 | a a a a a a b | b a a b a a c | c a a a b c e | dd
+6 | aaa a bbb | a baibi a baebe | cc | dd
+---------------------------------------------
+--------------- MiniTunes -------------------
+---------------------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: Search: 5 | a a a a a a b | b a a b a a c | c a a a b c e | dd
+---------------------------------------------
+--------------- MiniTunes -------------------
+---------------------------------------------
+1- Add song
+2- Edit song
+3- Delete song
+4- Show collection
+5- Manage playlist
+6- Import iTunes JSON data
+7- Export playlist to XSPF
+8- Save data
+9- Load data
+0- Play playlist
+q- Quit
+Option: 

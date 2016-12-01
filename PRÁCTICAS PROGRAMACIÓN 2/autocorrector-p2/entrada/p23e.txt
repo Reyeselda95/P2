@@ -1,0 +1,7 @@
+6
+noexistoynomepuedoabrir.txt
+6
+entrada/beatles.txt
+4
+
+q

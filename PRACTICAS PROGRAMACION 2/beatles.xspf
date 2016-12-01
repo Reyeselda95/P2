@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+ <title>MiniTunes playlist</title>
+ <trackList>
+  <track>
+   <title>Here Comes the Sun</title>
+   <creator>The Beatles</creator>
+   <album>Abbey Road</album>
+   <location>http://a926.phobos.apple.com/us/r1000/064/Music2/v4/bd/a3/de/bda3dec6-3155-d754-16a9-5af221eae0e8/mzaf_5402157039099588579.m4a</location>
+   <meta rel="genre">Rock</meta>
+  </track>
+  <track>
+   <title>Let It Be</title>
+   <creator>The Beatles</creator>
+   <album>Let It Be</album>
+   <location>http://a106.phobos.apple.com/us/r1000/055/Music/v4/fa/9f/2a/fa9f2ae7-a237-7899-7401-b9df497a6c00/mzaf_2208415321484927286.m4a</location>
+   <meta rel="genre">Rock</meta>
+  </track>
+  <track>
+   <title>Hey Jude</title>
+   <creator>The Beatles</creator>
+   <album>The Beatles 1967-1970 (The Blue Album)</album>
+   <location>http://a195.phobos.apple.com/us/r1000/074/Music2/v4/70/aa/18/70aa1820-6235-4507-f790-1a508dd84a35/mzaf_5032460861409190469.m4a</location>
+   <meta rel="genre">Rock</meta>
+  </track>
+  <track>
+   <title>Come Together</title>
+   <creator>The Beatles</creator>
+   <album>Abbey Road</album>
+   <location>http://a1234.phobos.apple.com/us/r1000/072/Music/v4/49/33/74/4933749f-3050-93b0-5f09-0cd8a98f99e8/mzaf_2204455569548518172.m4a</location>
+   <meta rel="genre">Rock</meta>
+  </track>
+  <track>
+   <title>In My Life</title>
+   <creator>The Beatles</creator>
+   <album>Rubber Soul</album>
+   <location>http://a1064.phobos.apple.com/us/r1000/095/Music2/v4/88/a2/f7/88a2f7a7-b4f7-c38d-ad37-59f696491f9b/mzaf_6495562274551083326.m4a</location>
+   <meta rel="genre">Rock</meta>
+  </track>
+  <track>
+   <title>Blackbird</title>
+   <creator>The Beatles</creator>
+   <album>The Beatles (White Album)</album>
+   <location>http://a1177.phobos.apple.com/us/r1000/115/Music/v4/8e/92/7c/8e927cf8-f964-8ab0-9a93-d33affe438aa/mzaf_3385890796904619788.m4a</location>
+   <meta rel="genre">Rock</meta>
+  </track>
+  <track>
+   <title>Twist and Shout</title>
+   <creator>The Beatles</creator>
+   <album>Please Please Me</album>
+   <location>http://a1058.phobos.apple.com/us/r1000/091/Music2/v4/7a/90/d9/7a90d947-8655-69ea-6b6c-c9cb184a1c82/mzaf_2684907012785133636.m4a</location>
+   <meta rel="genre">Rock</meta>
+  </track>
+  <track>
+   <title>I Want to Hold Your Hand</title>
+   <creator>The Beatles</creator>
+   <album>1</album>
+   <location>http://a475.phobos.apple.com/us/r1000/097/Music/72/18/0c/mzi.dpylyzqh.aac.p.m4a</location>
+   <meta rel="genre">Rock</meta>
+  </track>
+  <track>
+   <title>Yesterday</title>
+   <creator>The Beatles</creator>
+   <album>1</album>
+   <location>http://a806.phobos.apple.com/us/r1000/063/Music2/v4/22/54/49/2254492c-50a1-3067-a972-8b2ee1b83aa8/mzaf_4055244604403675934.m4a</location>
+   <meta rel="genre">Rock</meta>
+  </track>
+  <track>
+   <title>All You Need Is Love</title>
+   <creator>The Beatles</creator>
+   <album>1</album>
+   <location>http://a1075.phobos.apple.com/us/r1000/115/Music2/v4/2f/3c/fa/2f3cfad5-d39b-1528-9865-77eb47e66e88/mzaf_8392867754231515329.m4a</location>
+   <meta rel="genre">Rock</meta>
+  </track>
+  <track>
+   <title>Ob-La-Di, Ob-La-Da</title>
+   <creator>The Beatles</creator>
+   <album>The Beatles (White Album)</album>
+   <location>http://a1596.phobos.apple.com/us/r1000/062/Music/v4/9d/38/6d/9d386dbf-05df-9546-ecb7-696b46e5411f/mzaf_8677247463163766384.m4a</location>
+   <meta rel="genre">Rock</meta>
+  </track>
+  <track>
+   <title>Revolution</title>
+   <creator>The Beatles</creator>
+   <album>The Beatles 1967-1970 (The Blue Album)</album>
+   <location>http://a1816.phobos.apple.com/us/r1000/061/Music/v4/24/8e/41/248e41d2-1631-d9d7-94b3-8a99654d0edd/mzaf_8429665739274834128.m4a</location>
+   <meta rel="genre">Rock</meta>
+  </track>
+  <track>
+   <title>Eleanor Rigby</title>
+   <creator>The Beatles</creator>
+   <album>1</album>
+   <location>http://a1767.phobos.apple.com/us/r1000/079/Music/v4/ce/a1/e0/cea1e001-4cd7-dd7f-2834-155e68792e79/mzaf_8691100226174126376.m4a</location>
+   <meta rel="genre">Rock</meta>
+  </track>
+  <track>
+   <title>While My Guitar Gently Weeps</title>
+   <creator>The Beatles</creator>
+   <album>The Beatles (White Album)</album>
+   <location>http://a1542.phobos.apple.com/us/r1000/081/Music2/v4/bb/03/5a/bb035a54-b886-28e9-0a79-fcb43e423a4c/mzaf_8764535255821421802.m4a</location>
+   <meta rel="genre">Rock</meta>
+  </track>
+  <track>
+   <title>Golden Slumbers</title>
+   <creator>The Beatles</creator>
+   <album>Abbey Road</album>
+   <location>http://a1695.phobos.apple.com/us/r1000/062/Music/a0/9a/cb/mzm.zylsqoea.aac.p.m4a</location>
+   <meta rel="genre">Rock</meta>
+  </track>
+ </trackList>
+</playlist>

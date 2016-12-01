@@ -1,0 +1,37 @@
+1
+Cancion
+Artista
+Album
+Genero
+la url
+1
+Cancion
+artista
+Album
+Genero
+la url
+1
+cancion
+Artista
+Album
+Genero
+la url
+1
+Cancion
+Artista
+album
+Genero
+la url
+1
+Cancion
+Artista
+Album
+genero
+la url
+4
+
+4
+a u
+4
+unaCadenaDeBusquedaMasLargaQueLaQueLaPuedeContener
+q
