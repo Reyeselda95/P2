@@ -1,6 +1,6 @@
 // hola.cc - programa para saludar en varias lenguas
-// DNI1 45931406 REYES ALBILLAR, ALEJANDRO
-// DNI2 74245842 PASCUAL GOMEZ, ALEJANDRO
+// REYES ALBILLAR, ALEJANDRO
+// PASCUAL GOMEZ, ALEJANDRO
 
 #include <iostream>
 using namespace std;
